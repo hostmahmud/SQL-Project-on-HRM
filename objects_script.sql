@@ -3,8 +3,6 @@
 *
 * SQL Project: Human resource management
 * Project By: Md Shah Mahmud Sabuj
-* Batch ID: ESAD-CS/PNTL-A/45/01
-* Trainee ID: 1258657
 *
 */
 
